@@ -1,0 +1,14 @@
+numpy<2
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+torch-directml==0.2.5.dev240914
+librosa==0.10.1
+scipy
+soundfile
+tqdm
+pytorch-lightning==2.1.4
+setuptools<81
+torch-ema==0.3
+torch-pesq
+sdeint==0.3.0
