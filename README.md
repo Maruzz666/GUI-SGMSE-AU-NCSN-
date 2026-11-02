@@ -8,8 +8,13 @@ Limitaciones:
 -la calidad no puede ser la esperada 
 
 Desarrollo: 
-esta hecho por el agente GPT-6 luna y el codigo no fue revisado.
+
+-esta hecho por el agente GPT-6 luna y el codigo no fue revisado.
+
+-Proyecto Abandonado.
 
 Observaciones:
 
 -Sonido de voz apagada y perdida grande de calidad original,incluso en su modelo mas avanzado.
+
+
