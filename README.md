@@ -17,4 +17,8 @@ Observaciones:
 
 -Sonido de voz apagada y perdida grande de calidad original,incluso en su modelo mas avanzado.
 
+Soporte De GPU:
+
+-Solo esta disponible para Tarjetas Graficas que Soporten directml
+
 
