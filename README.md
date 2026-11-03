@@ -3,7 +3,7 @@ Una interfaz grafica para la Red Neuronal SGMSE dedicada a procesamiento de audi
 
 Limitaciones: 
 
--El procesamiento por GPU es MUY CARO en VRAM
+-El procesamiento por GPU es MUY CARO en VRAM, Crece el uso rapidamente al aumentar la duracion del audio.
 -en CPU es muy lento
 -la calidad no puede ser la esperada 
 
